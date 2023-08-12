@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikimampasha&label=Profile%20views&color=0e75b6&style=flat" alt="shaikimampasha" /> </p>
 
-- 🌱 I’m currently learning react js **I completed full stack with react js and nod js in geeksforgeeks**
+- 🌱 I’m currently learning and deep div into react js **I completed full stack with react js and nod js in geeksforgeeks**
 
 - 💬 Ask me about **React js**
 
