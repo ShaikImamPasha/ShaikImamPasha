@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning react js **I completed full stack with react js and nod js in geeksforgeeks**
 
-- 💬 Ask me about **I am good at React js,java script**
+- 💬 Ask me about **React js**
 
 - 📫 How to reach me **shaikimam916@gmail.com**
 
