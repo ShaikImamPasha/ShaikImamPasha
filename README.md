@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shaikimam916@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GkDImCtORea7P5q8Kbih0z6UcwN8nxZ0/view](https://drive.google.com/file/d/1GkDImCtORea7P5q8Kbih0z6UcwN8nxZ0/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GkDImCtORea7P5q8Kbih0z6UcwN8nxZ0/view](https://drive.google.com/file/d/1rD_ZJXMq21_AW8oJaPjbK6Lh9T_KoUJN/view?usp=sharing)
 
 ## Let's Connect with me😉
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-imam-pasha-9b9714231/) 
